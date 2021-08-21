@@ -12,6 +12,6 @@ UltimaV files can all be found inside of UltimaV.zip
 
 ## How To Use
 
-You will need to copy the file path to {saved.gam} and paste into source code.
-Run program, input stats and items desired.
+You will need to copy the file path to {saved.gam}
+Run program, input file path, stats and items desired.
 Reopen game and enjoy!
